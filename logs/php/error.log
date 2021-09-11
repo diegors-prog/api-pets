@@ -1,0 +1,309 @@
+[08-Sep-2021 17:30:40 UTC] PHP Warning:  require_once(/endpoints/user_post.php): failed to open stream: No such file or directory in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:30:40 UTC] PHP Stack trace:
+[08-Sep-2021 17:30:40 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:30:40 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:30:40 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:30:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:30:40 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:30:40 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:30:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/endpoints/user_post.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:30:40 UTC] PHP Stack trace:
+[08-Sep-2021 17:30:40 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:30:40 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:30:40 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:30:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:30:40 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:30:40 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:35 UTC] PHP Warning:  require_once(/endpoints/user_post.php): failed to open stream: No such file or directory in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:35 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:35 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:35 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:35 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:35 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:35 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:35 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/endpoints/user_post.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:35 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:35 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:35 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:35 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:35 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:35 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:35 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:35 UTC] PHP Warning:  require_once(/endpoints/user_post.php): failed to open stream: No such file or directory in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:35 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:35 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:35 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:35 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:35 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:35 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:35 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/endpoints/user_post.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:35 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:35 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:35 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:35 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:35 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:35 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:35 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:37 UTC] PHP Warning:  require_once(/endpoints/user_post.php): failed to open stream: No such file or directory in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:37 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:37 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:37 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:37 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:37 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:37 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:37 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/endpoints/user_post.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:37 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:37 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:37 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:37 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:37 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:37 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:37 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:37 UTC] PHP Warning:  require_once(/endpoints/user_post.php): failed to open stream: No such file or directory in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:37 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:37 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:37 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:37 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:37 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:37 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:37 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[08-Sep-2021 17:31:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/endpoints/user_post.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\functions.php on line 5
+[08-Sep-2021 17:31:37 UTC] PHP Stack trace:
+[08-Sep-2021 17:31:37 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[08-Sep-2021 17:31:37 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[08-Sep-2021 17:31:37 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[08-Sep-2021 17:31:37 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[08-Sep-2021 17:31:37 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:77
+[08-Sep-2021 17:31:37 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 17:08:30 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 17:08:30 UTC] PHP Stack trace:
+[10-Sep-2021 17:08:30 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-cron.php:0
+[10-Sep-2021 17:08:30 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-cron.php:44
+[10-Sep-2021 17:08:30 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 17:08:30 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 17:08:30 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:30:56 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:30:56 UTC] PHP Stack trace:
+[10-Sep-2021 18:30:56 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:30:56 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:30:56 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:30:56 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:30:56 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:31:12 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:31:12 UTC] PHP Stack trace:
+[10-Sep-2021 18:31:12 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:31:12 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:31:12 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:31:12 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:31:12 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:33:13 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:33:13 UTC] PHP Stack trace:
+[10-Sep-2021 18:33:13 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:33:13 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:33:13 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:33:13 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:33:13 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:35:14 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:35:14 UTC] PHP Stack trace:
+[10-Sep-2021 18:35:14 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:35:14 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:35:14 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:35:14 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:35:14 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:37:15 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:37:15 UTC] PHP Stack trace:
+[10-Sep-2021 18:37:15 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:37:15 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:37:15 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:37:15 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:37:15 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:39:16 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:39:16 UTC] PHP Stack trace:
+[10-Sep-2021 18:39:16 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:39:16 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:39:16 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:39:16 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:39:16 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:40:47 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:40:47 UTC] PHP Stack trace:
+[10-Sep-2021 18:40:47 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:40:47 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:40:47 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:40:47 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:40:47 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:41:03 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:41:03 UTC] PHP Stack trace:
+[10-Sep-2021 18:41:03 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:41:03 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:41:03 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:41:03 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:41:03 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:42:41 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:42:41 UTC] PHP Stack trace:
+[10-Sep-2021 18:42:41 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:42:41 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:42:41 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:42:41 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:42:41 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:42:57 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:42:57 UTC] PHP Stack trace:
+[10-Sep-2021 18:42:57 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:42:57 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:42:57 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:42:57 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:42:57 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:44:58 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:44:58 UTC] PHP Stack trace:
+[10-Sep-2021 18:44:58 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:44:58 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:44:58 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:44:58 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:44:58 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:46:59 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:46:59 UTC] PHP Stack trace:
+[10-Sep-2021 18:46:59 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:46:59 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:46:59 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:46:59 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:46:59 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:49:00 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:49:00 UTC] PHP Stack trace:
+[10-Sep-2021 18:49:00 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:49:00 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:49:00 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:49:00 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:49:00 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:50:34 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:50:34 UTC] PHP Stack trace:
+[10-Sep-2021 18:50:34 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:50:34 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:50:34 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:50:34 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:50:34 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:50:49 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:50:49 UTC] PHP Stack trace:
+[10-Sep-2021 18:50:49 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:50:49 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:50:49 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:50:49 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:50:49 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:52:50 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:52:50 UTC] PHP Stack trace:
+[10-Sep-2021 18:52:50 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:52:50 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:52:50 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:52:50 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:52:50 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:54:51 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:54:51 UTC] PHP Stack trace:
+[10-Sep-2021 18:54:51 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:54:51 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:54:51 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:54:51 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:54:51 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:56:52 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:56:52 UTC] PHP Stack trace:
+[10-Sep-2021 18:56:52 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:56:52 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:56:52 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:56:52 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:56:52 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:58:20 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:58:20 UTC] PHP Stack trace:
+[10-Sep-2021 18:58:20 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:58:20 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:58:20 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:58:20 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:58:20 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 18:58:36 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 18:58:36 UTC] PHP Stack trace:
+[10-Sep-2021 18:58:36 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 18:58:36 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 18:58:36 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 18:58:36 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 18:58:36 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:00:37 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:00:37 UTC] PHP Stack trace:
+[10-Sep-2021 19:00:37 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:00:37 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:00:37 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:00:37 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:00:37 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:02:38 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:02:38 UTC] PHP Stack trace:
+[10-Sep-2021 19:02:38 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:02:38 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:02:38 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:02:38 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:02:38 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:04:39 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:04:39 UTC] PHP Stack trace:
+[10-Sep-2021 19:04:39 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:04:39 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:04:39 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:04:39 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:04:39 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:06:40 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:06:40 UTC] PHP Stack trace:
+[10-Sep-2021 19:06:40 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:06:40 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:06:40 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:06:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:06:40 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:08:41 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:08:41 UTC] PHP Stack trace:
+[10-Sep-2021 19:08:41 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:08:41 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:08:41 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:08:41 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:08:41 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:24:25 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:24:25 UTC] PHP Stack trace:
+[10-Sep-2021 19:24:25 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:0
+[10-Sep-2021 19:24:25 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin-ajax.php:22
+[10-Sep-2021 19:24:25 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:24:25 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:24:25 UTC] PHP   5. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:24:30 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:24:30 UTC] PHP Stack trace:
+[10-Sep-2021 19:24:30 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\users.php:0
+[10-Sep-2021 19:24:30 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\users.php:11
+[10-Sep-2021 19:24:30 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin.php:34
+[10-Sep-2021 19:24:30 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:24:30 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:24:30 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:26:31 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:26:31 UTC] PHP Stack trace:
+[10-Sep-2021 19:26:31 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\users.php:0
+[10-Sep-2021 19:26:31 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\users.php:11
+[10-Sep-2021 19:26:31 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin.php:34
+[10-Sep-2021 19:26:31 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:26:31 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:26:31 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:26:32 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:26:32 UTC] PHP Stack trace:
+[10-Sep-2021 19:26:32 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[10-Sep-2021 19:26:32 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[10-Sep-2021 19:26:32 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[10-Sep-2021 19:26:32 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:26:32 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:26:32 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:26:40 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:26:40 UTC] PHP Stack trace:
+[10-Sep-2021 19:26:40 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\index.php:0
+[10-Sep-2021 19:26:40 UTC] PHP   2. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\index.php:10
+[10-Sep-2021 19:26:40 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-admin\admin.php:34
+[10-Sep-2021 19:26:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:26:40 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:26:40 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[10-Sep-2021 19:26:40 UTC] PHP Fatal error:  Cannot redeclare photo_data() (previously declared in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photo_get.php:3) in C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-content\themes\api\endpoints\photos_get.php on line 3
+[10-Sep-2021 19:26:40 UTC] PHP Stack trace:
+[10-Sep-2021 19:26:40 UTC] PHP   1. {main}() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:0
+[10-Sep-2021 19:26:40 UTC] PHP   2. require() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\index.php:17
+[10-Sep-2021 19:26:40 UTC] PHP   3. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-blog-header.php:13
+[10-Sep-2021 19:26:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
+[10-Sep-2021 19:26:40 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
+[10-Sep-2021 19:26:40 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
