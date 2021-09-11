@@ -16,7 +16,11 @@ function api_photo_delete($request) {
   wp_delete_attachment( $attachment_id, true );
   wp_delete_post($post_id, true);
 
-  return rest_ensure_response('Post deletado.');
+  $response = [
+    'message' => 'Postagem deletada.',
+  ];
+
+  return rest_ensure_response($response);
 }
 
 function register_api_photo_delete() {

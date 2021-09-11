@@ -29,7 +29,11 @@ function api_password_lost($request) {
 
   wp_mail($user_email, 'Password Reset', $body);
 
-  return rest_ensure_response('Email enviado.');
+  $response = [
+    'message' => 'Email enviado.',
+  ];
+
+  return rest_ensure_response($response);
 }
 
 function register_api_password_lost() {
@@ -63,7 +67,11 @@ function api_password_reset($request) {
 
   reset_password($user, $password);
 
-  return rest_ensure_response('Senha alterada.');
+  $response = [
+    'message' => 'Senha alterada.',
+  ];
+
+  return rest_ensure_response($response);
 }  
 
 function register_api_password_reset() {
