@@ -1,6 +1,6 @@
 <?php 
 // remove_action('rest_api_init', 'create_initial_rest_routes', 99);
-
+//hdjkashjkhf
 add_filter('rest_endpoints', function ($endpoints) {
   unset($endpoints['/wp/v2/users']);
   unset($endpoints['/wp/v2/users/(?P<id>[\d]+)']);
