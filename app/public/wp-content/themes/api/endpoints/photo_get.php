@@ -58,7 +58,7 @@ add_action('rest_api_init', 'register_api_photo_get');
 
 
 function api_photos_get($request) {
-  $_total = sanitize_text_field($request['_total']) ?: 6;
+  $_total = sanitize_text_field($request['_total']) ?: 0;
   $_page = sanitize_text_field($request['_page']) ?: 1;
   $_user = sanitize_text_field($request['_user']) ?: 0;
 

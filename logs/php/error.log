@@ -307,3 +307,6 @@
 [10-Sep-2021 19:26:40 UTC] PHP   4. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-load.php:50
 [10-Sep-2021 19:26:40 UTC] PHP   5. require_once() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-config.php:79
 [10-Sep-2021 19:26:40 UTC] PHP   6. include() C:\Users\Cliente Farol\Desktop\sitesWP\petsapi\app\public\wp-settings.php:546
+[23-Oct-2021 16:32:26 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[23-Oct-2021 16:49:21 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[23-Oct-2021 16:53:06 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
